@@ -1,6 +1,0 @@
-pyobjc-framework-WebKit>=11,<12; python_version < "3.10"
-pyobjc-framework-WebKit>=12,<13; python_version >= "3.10"
-pyobjc-core>=11,<12; python_version < "3.10"
-pyobjc-framework-Cocoa>=11,<12; python_version < "3.10"
-pyobjc-core>=12,<13; python_version >= "3.10"
-pyobjc-framework-Cocoa>=12,<13; python_version >= "3.10"
