@@ -4,6 +4,10 @@ instruction:
 so like please have your deafault wallpaper saved as when you stop the app your default wallpaper wont be restored and would be of the last song that was playing
 and before using the app make sure you dont have a dynamic wallpaper on or just put a still wallpaper for it to work
 
+⚠️ On first launch: Right-click the app → Open → click "Open" in the dialog.
+or in the terminal
+xattr -cr (drag the app )
+
 
 
 ####Feedback & Suggestions
